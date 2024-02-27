@@ -1,0 +1,13 @@
+﻿  cueso.cpp
+C:\Users\aluinos\source\repos\curso de verao\curso de verao\cueso.cpp(1,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\aluinos\source\repos\curso de verao\curso de verao\cueso.cpp(2,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\aluinos\source\repos\curso de verao\curso de verao\cueso.cpp(11,20): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluinos\source\repos\curso de verao\curso de verao\cueso.cpp(19,18): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluinos\source\repos\curso de verao\curso de verao\cueso.cpp(21,27): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\aluinos\source\repos\curso de verao\curso de verao\cueso.cpp(24,26): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\aluinos\source\repos\curso de verao\curso de verao\cueso.cpp(28,17): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\aluinos\source\repos\curso de verao\curso de verao\cueso.cpp(33,22): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluinos\source\repos\curso de verao\curso de verao\cueso.cpp(38,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluinos\source\repos\curso de verao\curso de verao\cueso.cpp(7,21): warning C4101: 'total': variável local não referenciada
+C:\Users\aluinos\source\repos\curso de verao\curso de verao\cueso.cpp(7,19): warning C4101: 'i': variável local não referenciada
+  curso de verao.vcxproj -> C:\Users\aluinos\source\repos\curso de verao\x64\Debug\curso de verao.exe
