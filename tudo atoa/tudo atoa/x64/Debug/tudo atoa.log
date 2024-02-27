@@ -1,0 +1,4 @@
+﻿  tudo atoa.cpp
+C:\Users\aluinos\source\repos\tudo atoa\tudo atoa\tudo atoa.cpp(17,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\aluinos\source\repos\tudo atoa\tudo atoa\tudo atoa.cpp(18,28): warning C4101: 'acumular': variável local não referenciada
+  tudo atoa.vcxproj -> C:\Users\aluinos\source\repos\tudo atoa\x64\Debug\tudo atoa.exe
